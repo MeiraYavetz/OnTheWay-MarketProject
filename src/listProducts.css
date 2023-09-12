@@ -1,0 +1,19 @@
+#bar{
+    background-color:  #004834;
+}
+#icon{
+    font-size: 8vh;
+}
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    height: 50vh;
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

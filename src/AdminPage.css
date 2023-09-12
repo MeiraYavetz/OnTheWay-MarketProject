@@ -1,0 +1,79 @@
+.containerAdmin {
+  display: flex;  top: 10vh;
+  justify-content: center;
+}
+
+.title {
+  margin-bottom: 1rem;
+}
+
+.store-name-field {
+  margin-right: 2cm;
+}
+
+.address-section {
+  margin-top: 1cm;
+}
+
+.address-field {
+  margin-bottom: 1cm;
+}
+
+.product-section {
+  margin-top: 2cm;
+}
+
+.product-field {
+  margin-bottom: 1cm;
+}
+
+.add-product-button {
+  margin-top: 1cm;
+}
+
+.create-store-button {
+  margin-top: 5cm;
+  top:6vh;
+
+}
+
+.modal-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  background-color: white;
+  box-shadow: 0 0 24px rgba(0, 0, 0, 0.5);
+  padding: 1rem;
+}
+
+.modal-title {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.modal-section-title {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+
+.modal-product {
+  margin-bottom: 0.5rem;
+}
+.flex-container{
+
+  display: flex;
+}
+.first {
+  margin-right: 20px;
+  border: solid;
+}
+
+.second {
+  display: grid;
+  border: solid;
+  margin-left: 20px;
+  width: 50vw;
+}
