@@ -1,0 +1,306 @@
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Services.dll
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Common.dll
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.dll
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+E:\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+E:\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Services.dll
+E:\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+E:\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Common.dll
+E:\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+E:\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+E:\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+E:\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+E:\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.dll
+E:\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+E:\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+E:\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Services.dll
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Common.dll
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.dll
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.dll
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.dll
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.dll
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.dll
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.dll
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.dll
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Common.pdb
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Services\obj\Debug\net6.0\ref\Services.dll

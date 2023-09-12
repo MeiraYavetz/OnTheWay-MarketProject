@@ -1,0 +1,252 @@
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+E:\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+E:\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Repositories\obj\Debug\net6.0\ref\Repositories.dll

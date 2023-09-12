@@ -1,0 +1,876 @@
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.exe
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.deps.json
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.pdb
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Core.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Identity.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Memory.Data.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.pdb
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.pdb
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.pdb
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\refint\Mock.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.pdb
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\ref\Mock.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.exe
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Core.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Identity.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Memory.Data.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\refint\Mock.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\ref\Mock.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.exe
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.deps.json
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.pdb
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Core.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Identity.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Memory.Data.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.pdb
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.pdb
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.pdb
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\refint\Mock.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.pdb
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\ref\Mock.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\GoogleMapsApi.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Newtonsoft.Json.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\GoogleMapsApi.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Newtonsoft.Json.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\refint\Mock.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.exe
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Core.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Identity.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\GoogleMapsApi.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Newtonsoft.Json.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Memory.Data.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Mock\obj\Debug\net6.0\ref\Mock.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\GoogleMapsApi.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Mock\bin\Debug\net6.0\Newtonsoft.Json.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.exe
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Core.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Identity.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\GoogleMapsApi.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Newtonsoft.Json.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Memory.Data.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\refint\Mock.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\ref\Mock.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.exe
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.deps.json
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.pdb
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Core.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Identity.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\GoogleMapsApi.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Memory.Data.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.pdb
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.pdb
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.pdb
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\refint\Mock.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.pdb
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.pdb
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.exe
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.pdb
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\GoogleMapsApi.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.pdb
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.pdb
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\ref\Mock.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.exe
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Core.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Identity.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\GoogleMapsApi.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Newtonsoft.Json.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Memory.Data.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\refint\Mock.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\ref\Mock.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.exe
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.deps.json
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.pdb
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Core.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Identity.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\GoogleMapsApi.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Memory.Data.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.pdb
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.pdb
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.pdb
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\refint\Mock.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.pdb
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\ref\Mock.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.exe
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.deps.json
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.pdb
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Core.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Identity.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\GoogleMapsApi.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Memory.Data.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.pdb
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.pdb
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.pdb
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\refint\Mock.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.pdb
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\ref\Mock.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.exe
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.deps.json
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.pdb
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Core.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Identity.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\GoogleMapsApi.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Memory.Data.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.pdb
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.pdb
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.pdb
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\refint\Mock.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.pdb
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\ref\Mock.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.exe
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.deps.json
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Mock.pdb
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\GoogleMapsApi.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Common.pdb
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\bin\Debug\net6.0\Services.pdb
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\refint\Mock.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.pdb
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Mock\obj\Debug\net6.0\ref\Mock.dll

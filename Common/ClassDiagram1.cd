@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Common.DTOs.CustomerDTO" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAQAAAABACAAAAAAAAAAA=</HashCode>
+      <FileName>DTOs\CustomerDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.DTOs.DataDTO" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAABAAAAAA=</HashCode>
+      <FileName>DTOs\DataDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.DTOs.ProductDTO" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAQAIAAA=</HashCode>
+      <FileName>DTOs\ProductDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.DTOs.ProductStoreDTO" Collapsed="true">
+    <Position X="1.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTOs\ProductStoreDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.DTOs.SpReturnDTO" Collapsed="true">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgQ=</HashCode>
+      <FileName>DTOs\SpReturnDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.DTOs.StoreDTO" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAQAAAAAAAAIEAAAAAAAAAAEAAAAAAAAAAQ=</HashCode>
+      <FileName>DTOs\StoreDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

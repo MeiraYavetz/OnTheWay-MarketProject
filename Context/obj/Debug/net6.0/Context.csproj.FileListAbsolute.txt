@@ -1,0 +1,306 @@
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.dll
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.dll
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+C:\Users\USER\Desktop\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+E:\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+E:\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+E:\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.dll
+E:\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+E:\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+E:\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+E:\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+E:\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+E:\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+E:\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+E:\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+E:\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.dll
+E:\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+E:\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+E:\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+E:\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.dll
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.dll
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+E:\מאירה יעבץ\NaviMark Project\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+E:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+D:\מאירה יעבץ\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\NaviMark Project\NaviMark Project מעודכן\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+E:\מאירה יעבץ\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+C:\Users\USER\Desktop\אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+E:\חדש אחרי השינוי של גילה -לא טוב עדיין\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+E:\כמעט עובד באג שמישהו יפתור לי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+E:\כמעט עובד באג שמישהו יפתור לי PREV בלי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+C:\Users\USER\Desktop\פרויקט עובד לא לפי הסדר\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.dll
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.dll
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+C:\Users\USER\Desktop\פרויקט עובד\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.deps.json
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.dll
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Context.pdb
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.dll
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\refint\Context.dll
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.pdb
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+C:\Users\USER\Desktop\שינוי\פרויקט מעודכן מעודכן מעודכן\NaviMark\Context\obj\Debug\net6.0\ref\Context.dll
